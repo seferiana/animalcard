@@ -1,4 +1,6 @@
 # animalcard
 Grow With Google Animal Trading Card
 
-This is for the Grow With Google Front-End Challenge, Lesson 8. 
+This is Project 2 for the Grow With Google Front-End Challenge, Lesson 8.
+
+
